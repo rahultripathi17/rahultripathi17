@@ -25,7 +25,7 @@ I am passionate about exploring new technologies, building innovative projects, 
   </a>
     
   <a href="https://github.com/rahultripathi17" style="flex: 1;">
-    <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultripathi17&theme=nord&show_icons=true&hide_border=false&layout=compact" />
+    <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultripathi17&theme=nord&show_icons=true&hide_border=true&layout=compact" />
   </a>
     
   <p align="center" style="display: flex;">
