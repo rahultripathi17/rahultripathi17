@@ -40,7 +40,7 @@ I am passionate about exploring new technologies, building innovative projects, 
 
 <div align="center">
   
-  <h3>Connect with Me</h3>
+  <h3>Let's Connect🍵</h3>
   <a href="https://instagram.com/rxhul_tripathi" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/bdc58874-1975-4e8e-a8df-87d1e278f837" alt="Instagram" height="30" width="40" /></a>
   <a href="https://twitter.com/rxhul_tripathi" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/f376da79-2cad-4cd8-9ecc-2178b0bd32af" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rahultripathi17" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/a30bbe9e-a3e9-4cb8-be39-fdb262094d16" alt="LinkedIn" height="30" width="40" /></a>
