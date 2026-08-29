@@ -1,53 +1,74 @@
 <div align="center">
-  <img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/8c2ef5ea-07d7-4ad5-a7e6-6f873f1b04f5" alt="Hero image">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:063B32,100:00C896&text=Rahul%20Tripathi&fontColor=F0F6FC&fontSize=48&fontAlignY=38&desc=Software%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20%E2%80%A2%20Product%20Delivery&descAlignY=58&descSize=17&animation=fadeIn" alt="Rahul Tripathi" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=750&color=19D98B&center=true&vCenter=true&width=820&height=55&lines=Building+reliable+software+from+idea+to+release;Applying+AI%2FML+to+practical%2C+measurable+problems;Connecting+Android%2C+APIs%2C+cloud+and+product+thinking;Learning+deeply.+Shipping+thoughtfully.+Improving+continuously." alt="Animated introduction" />
+</a>
+
 </div>
 
-I am passionate about exploring new technologies, building innovative projects, and participating in hackathons.✨
-
----
-
-### 💼 Currently Busy With
-
-- 👩🏻‍💻 I work as a software engineer.
-- 🌱 I'm mastering Android app and website development.
-- ✍️ Sometimes, I write tech blog posts.
-- 💬 Ask me about Android , Firebase.
-
-<details>
-  
-  <summary style="text-align: center;">Click here for GitHub stats!</summary>
-  <br>
-
-  <div align="center" style="display: flex; justify-content: space-between; max-width: 100%;">
-    
-  <a href="https://github.com/rahultripathi17" style="flex: 1;">
-    <img style="width: 44%;" src="https://github-readme-stats.vercel.app/api?username=rahultripathi17&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="rahultripathi17's Stats" />
-  </a>
-    
-  <a href="https://github.com/rahultripathi17" style="flex: 1;">
-    <img style="width: 48%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultripathi17&theme=nord&show_icons=true&hide_border=true&layout=compact" />
-  </a>
-    
-  <p align="center" style="display: flex;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahultripathi17&theme=nord&hide_border=true" alt="rahultripathi17's Streak" style="flex: 1; margin-right: 5px; margin-left: 5px;">
-  </p>
-    
-</div>
-
-</details>
-
----
+## Technical Toolkit
 
 <div align="center">
-  
-  <h3>Let's Connect🍵</h3>
-  <a href="https://instagram.com/rxhul_tripathi" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/bdc58874-1975-4e8e-a8df-87d1e278f837" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://twitter.com/rxhul_tripathi" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/f376da79-2cad-4cd8-9ecc-2178b0bd32af" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/rahultripathi17" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/a30bbe9e-a3e9-4cb8-be39-fdb262094d16" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/rahultripathi17" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/d0c94e4f-5e09-4c1a-8255-fdde06b04bbf" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://rahul-tripathi.web.app" target="blank"><img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/51c8bf9d-5eb2-46fa-bd5b-95c97fd30500" alt="Personal Website" height="30" width="40" /></a>
+
+<p><img src="https://skillicons.dev/icons?i=java,kotlin,python,js,react,nodejs,androidstudio,tensorflow,aws,gcp,firebase,sqlite,git,github,postman,figma&theme=dark&perline=8" alt="Java, Kotlin, Python, JavaScript, React, Node.js, Android Studio, TensorFlow, AWS, Google Cloud, Firebase, SQLite, Git, GitHub, Postman and Figma" /></p>
+
+<p>
+  <sub><b>AGENTIC TOOLS</b></sub><br /><br />
+  <img height="21" src="./assets/codex-monochrome-badge.svg" alt="OpenAI Codex" />
+  <img height="21" src="https://img.shields.io/badge/CLAUDE_CODE-161B22?style=flat-square&logo=claude&logoColor=FFFFFF" alt="Claude Code" />
+  <img height="21" src="https://img.shields.io/badge/ANTIGRAVITY-161B22?style=flat-square&logo=googlegemini&logoColor=FFFFFF" alt="Google Antigravity" />
+  <img height="21" src="https://img.shields.io/badge/OPENCODE-161B22?style=flat-square&logo=opencode&logoColor=FFFFFF" alt="OpenCode" />
+  <img height="21" src="https://img.shields.io/badge/CURSOR-161B22?style=flat-square&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+  <img height="21" src="https://img.shields.io/badge/MCP-161B22?style=flat-square&logo=modelcontextprotocol&logoColor=FFFFFF" alt="Model Context Protocol" />
+</p>
+
+<p>
+  <img height="18" src="https://img.shields.io/badge/AI_AGENTS-161B22?style=flat-square&logo=probot&logoColor=FFFFFF" alt="AI Agents" />
+  <img height="18" src="https://img.shields.io/badge/MULTI--AGENT_ORCHESTRATION-161B22?style=flat-square&logo=githubactions&logoColor=FFFFFF" alt="Multi-Agent Orchestration" />
+  <img height="18" src="https://img.shields.io/badge/MCP_SERVERS-161B22?style=flat-square&logo=modelcontextprotocol&logoColor=FFFFFF" alt="MCP Servers" />
+  <img height="18" src="https://img.shields.io/badge/AGENT_SKILLS-161B22?style=flat-square&logo=dependabot&logoColor=FFFFFF" alt="Agent Skills" />
+  <img height="18" src="https://img.shields.io/badge/PROMPT_ENGINEERING-161B22?style=flat-square&logo=probot&logoColor=FFFFFF" alt="Prompt Engineering" />
+</p>
+
 </div>
 
+## How I Work
+
+> **Clarity before complexity.** Understand the real constraint before choosing the solution.
+
+> **Evidence over assumptions.** Use data, testing, research, and feedback to improve decisions.
+
+> **Systems over silos.** Connect users, product intent, engineering choices, and operational reality.
+
+> **Useful outcomes over novelty.** Technology matters most when it solves the right problem reliably.
+
+## Contribution Flow
+
 <div align="center">
-  <img src="https://github.com/rahultripathi17/rahultripathi17/assets/165544212/26de6509-3681-4560-9ab1-da52f7bdf52d" alt="Bottom image">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahultripathi17/rahultripathi17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahultripathi17/rahultripathi17/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="Animated contribution snake" src="https://raw.githubusercontent.com/rahultripathi17/rahultripathi17/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+## Connect
+
+<div align="center">
+
+Open to thoughtful conversations, useful ideas, and meaningful collaboration.
+
+<br />
+
+<a href="https://rahul-tripathi.web.app/"><img src="https://img.shields.io/badge/PORTFOLIO-161B22?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Rahul Tripathi's portfolio" /></a>
+<a href="https://www.linkedin.com/in/rahultripathi17/"><img height="28" src="./assets/linkedin-badge.svg" alt="Rahul Tripathi on LinkedIn" /></a>
+<a href="mailto:rahultripathixx@gmail.com"><img src="https://img.shields.io/badge/GMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email Rahul Tripathi" /></a>
+<a href="https://leetcode.com/u/rahultripathi17/"><img src="https://img.shields.io/badge/LEETCODE-161B22?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="Rahul Tripathi on LeetCode" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&color=0:0D1117,45:063B32,100:00C896&section=footer" alt="Footer" />
+
 </div>
